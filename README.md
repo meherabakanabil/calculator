@@ -1,7 +1,8 @@
 # calculator
 a basic calculator that can be operated on real and complex numbers, as well as matrix
 
-#Program interface
+# Program interface
+
 ![Screenshot 2024-12-22 022629](https://github.com/user-attachments/assets/a33a0bcb-c360-48ff-9377-295296e97e8f)
 
 ![Screenshot 2024-12-22 022645](https://github.com/user-attachments/assets/f4924b3b-5f84-4dcb-8132-27a0b14c69f1)
